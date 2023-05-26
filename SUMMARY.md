@@ -7,7 +7,7 @@
 
 * [▪ Dex Aggregator](piteas-protocol/dex-aggregator.md)
 * [▪ Features](piteas-protocol/features.md)
-* [▪ Models](piteas-protocol/models.md)
+* [▪ Protocols](piteas-protocol/protocols.md)
 
 ***
 
