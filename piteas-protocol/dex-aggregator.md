@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/ad (1).jpg
 coverY: 0
 ---
 
-# ▪ Dex Aggregator
+# 🎯 Dex Aggregator
 
 ## What is a DEX Aggregator?
 

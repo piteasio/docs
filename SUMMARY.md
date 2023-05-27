@@ -5,9 +5,9 @@
 
 ## Piteas Protocol
 
-* [▪ Dex Aggregator](piteas-protocol/dex-aggregator.md)
-* [▪ Features](piteas-protocol/features.md)
-* [▪ Protocols](piteas-protocol/protocols.md)
+* [🎯 Dex Aggregator](piteas-protocol/dex-aggregator.md)
+* [🧩 Protocols](piteas-protocol/protocols.md)
+* [🛣 Roadmap](piteas-protocol/roadmap.md)
 
 ***
 

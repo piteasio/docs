@@ -1,4 +1,4 @@
-# ▪ Protocols
+# 🧩 Protocols
 
 ### Piteas is a dex aggregator on Pulsechain.
 
