@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/ad (1).jpg
+coverY: 0
+---
+
 # 💖 About PulseChain
 
 <figure><img src=".gitbook/assets/clean.png" alt=""><figcaption></figcaption></figure>

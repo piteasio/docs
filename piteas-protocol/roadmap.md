@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/ad (1).jpg
+coverY: 0
+---
+
 # 🛣 Roadmap
 
 ## Our Mission
