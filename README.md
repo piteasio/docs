@@ -19,3 +19,4 @@ Piteas is a decentralized exchange (DEX) aggregator that provides the latest in 
 * Twitter: [https://twitter.com/piteasio](https://twitter.com/piteasio)
 * Telegram: [https://t.me/piteasio](https://t.me/piteasio)
 * Launch App: [https://app.piteas.io](https://app.piteas.io)
+* Github: [https://github.com/piteasio](https://github.com/piteasio)
