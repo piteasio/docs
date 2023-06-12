@@ -16,10 +16,9 @@ coverY: 0
 * [x] Release branding and sources
 * [x] Launch website and docs
 * [x] Creation of social media channels
-* [ ] Dex aggregaotor protocol launch
-* [ ] Token Generation
+* [ ] Piteas interface v1.2 release
 * [ ] Audits
-* [ ] Listings on Coinmarketcap & Coingecko
+* [ ] Dex aggregaotor protocol launch
 
 ### Protocol
 
@@ -27,4 +26,17 @@ coverY: 0
 * [ ] Open source router API
 * [ ] Integrate new liquidity sources
 * [ ] Limit order
-* [ ] Gas-less trading
+* [ ] Gasless trading
+
+### Ecosystem
+
+* [ ] Revenue model
+* [ ] Integrate Piteas API to other protocols
+* [ ] New partnerships
+
+### Token & Utility
+
+* [ ] Token generation
+* [ ] Liquidity generation
+* [ ] Listings on Coinmarketcap & Coingecko
+* [ ] Cex listings
