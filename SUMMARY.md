@@ -7,6 +7,7 @@
 
 * [🎯 Dex Aggregator](piteas-protocol/dex-aggregator.md)
 * [🧩 Protocols](piteas-protocol/protocols.md)
+* [💎 Features](piteas-protocol/features.md)
 * [🛣 Roadmap](piteas-protocol/roadmap.md)
 
 ***
@@ -16,7 +17,7 @@
 
 ## Piteas Token
 
-* [▫ Overview](piteas-token/overview.md)
+* [🪙 Overview](piteas-token/overview.md)
 
 ## Support
 
