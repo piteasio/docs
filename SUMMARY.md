@@ -18,6 +18,7 @@
 ## Piteas Token
 
 * [🪙 Overview](piteas-token/overview.md)
+* [🏦 Sacrifice](piteas-token/sacrifice.md)
 
 ## Support
 
