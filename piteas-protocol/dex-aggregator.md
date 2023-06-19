@@ -5,6 +5,8 @@ coverY: 0
 
 # 🎯 Dex Aggregator
 
+<figure><img src="../.gitbook/assets/howitworks.jpg" alt=""><figcaption></figcaption></figure>
+
 ## What is a DEX Aggregator?
 
 A DEX allows you to buy crypto assets and keep full custody of your funds while maintaining complete anonymity. Thus, they are a safe and more reliable method of purchasing cryptocurrencies. However, these exchanges may have a high transaction fee or [slippage](https://coinsutra.com/glossary/slippage-tolerance/). Further, with a new DEX coming into the market almost every week, investors find it challenging to find a suitable DEX with good liquidity.This is where a DEX aggregator comes into the picture. A DEX aggregator can be used to find crypto at the best price and with the lowest transaction cost and [slippage](https://coinsutra.com/glossary/slippage-tolerance/).
