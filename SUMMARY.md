@@ -14,6 +14,7 @@
 
 * [📄 Contracts](contracts.md)
 * [🛡 Audit](audit.md)
+* [🐛 Bug Bounty](bug-bounty.md)
 
 ## Piteas Token
 
