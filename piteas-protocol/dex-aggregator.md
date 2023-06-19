@@ -5,7 +5,7 @@ coverY: 0
 
 # 🎯 Dex Aggregator
 
-<figure><img src="../.gitbook/assets/howitworks.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/howitworks (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## What is a DEX Aggregator?
 

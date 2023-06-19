@@ -11,7 +11,7 @@ First Optimal & Productive Dex Aggregator on Pulsechain.
 
 Piteas is a decentralized exchange (DEX) aggregator that provides the latest in swap technology. By combining multiple DEXs, we provide access to billions of dollars of the most widely used DeFi protocols. Our advanced routing algorithm gives you the best price, lowest slippage, and highest returns.
 
-<figure><img src=".gitbook/assets/howitworks.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/howitworks (1).jpg" alt=""><figcaption></figcaption></figure>
 
 > **Build for Pulsechain & HEX community.**
 
