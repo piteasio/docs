@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/ad (1).jpg
 coverY: 0
 ---
 
-# 🪙 Overview
+# ▫ Overview
 
 Piteas has no any governance or utility tokens yet, but planning to in the future.
 

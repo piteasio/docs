@@ -1,7 +1,6 @@
 # Table of contents
 
 * [💠 Overview](README.md)
-* [💖 About PulseChain](about-pulsechain.md)
 
 ## Piteas Protocol
 
@@ -12,6 +11,7 @@
 
 ***
 
+* [💖 About PulseChain](about-pulsechain.md)
 * [📄 Contracts](contracts.md)
 * [🛡 Audit](audit.md)
 * [🐛 Bug Bounty](bug-bounty.md)

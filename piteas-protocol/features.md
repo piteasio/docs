@@ -5,9 +5,9 @@ coverY: 0
 
 # 💎 Features
 
-### Best rates on **Pulsechain** for traders!
+### Best Rates on Pulsechain for Traders!
 
-The protocol sources liquidity from various exchanges and is capable of splitting a single trade transaction across multiple DEXes to ensure the best rates. Also, Piteas Dex Aggregator Protocol is launched on **Pulsechain** only!
+At Piteas, we strive to offer the best rates for traders on Pulsechain. Our protocol sources liquidity from various exchanges, allowing us to provide competitive rates and ensure optimal returns for your trades. Here are some of the key features that set Piteas apart:
 
 
 
@@ -15,21 +15,27 @@ The protocol sources liquidity from various exchanges and is capable of splittin
 
 #### **0% Swap Fee**
 
-Piteas pathfinder finds the route that will give maximum amount. Best return guaranteed!
+Enjoy fee-free swaps on Piteas. We believe in providing a cost-effective trading experience for our users, allowing you to maximize your profits without unnecessary fees.
 
-#### **Receive Max Amount**
+#### Max Amount Received
 
-Piteas pathfinder finds the route that will give maximum amount. Best return guaranteed!
+With our innovative Piteas pathfinder, we ensure that you receive the maximum amount possible for your trades. Our advanced routing algorithm finds the optimal route that guarantees the best return on your transactions.
 
 #### **Flashbot Protection**
 
-Our smart contracts protect you against flashbot and sandwich attacks.
+We prioritize the security of your trades. Piteas smart contracts are designed to protect you against flashbot and sandwich attacks, providing you with a secure trading environment.
 
-#### **User Friendly**
+#### User-Friendly Interface
 
-With its basic and smooth interface, you can easily swap all transactions on Piteas.
+We understand the importance of a seamless user experience. Our platform features a user-friendly interface that makes swapping tokens on Piteas easy and intuitive. Trade with confidence and convenience.
 
 \
 **All-in-One Platform**
 
-We provide convenience! The opportunity to instant transactions any token to any token you want.
+Piteas offers you the convenience of an all-in-one platform. Instantly swap any token to any token you desire, providing you with a wide range of trading options at your fingertips.
+
+
+
+{% hint style="success" %}
+With Piteas, you can trust that you're getting the best rates on Pulsechain, along with a secure and user-friendly trading experience. Join us today and take advantage of our innovative features for your trading needs.
+{% endhint %}
