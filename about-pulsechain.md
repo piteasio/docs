@@ -31,14 +31,8 @@ Select "Custom Network". Now enter the following information:
 > Block Explorer:\
 > [**scan.pulsechain.com**](https://scan.pulsechain.com/)
 
-### For Developers
-
-Start with reading the [docs](https://gitlab.com/pulsechaincom/pulsechain-mainnet).\
-\
-To get data for your applications please use one of the GraphQL endpoints for [Blocks](https://graph.pulsechain.com/subgraphs/name/pulsechain/blocks), [PulseX](https://graph.pulsechain.com/subgraphs/name/pulsechain/pulsex) & [Pairs](https://graph.pulsechain.com/subgraphs/name/pulsechain/pairs). You can [become a validator](https://launchpad.pulsechain.com/) for 32,000,000 PLS. There also is a Beacon Chain [Checkpoint Sync Provider](https://checkpoint.pulsechain.com/).\
-\
-Official RPC endpoint: rpc.pulsechain.com\
-Official websocket endpoint: ws.pulsechain.com
+Official RPC endpoint: **rpc.pulsechain.com**\
+Official websocket endpoint: **ws.pulsechain.com**
 
 ### PulseChain Goals
 
