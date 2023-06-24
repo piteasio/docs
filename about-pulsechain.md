@@ -46,7 +46,7 @@ Official websocket endpoint: **ws.pulsechain.com**
   The launch of PulseChain is the largest airdrop in history. Thousands of Ethereum based tokens and NFTs receive their free PulseChain versions. This new gold rush contains the value discovery of thousands of tokens and NFTs on PulseChain. If you always wanted to be a whale in a certain ERC20 or NFT, maybe now you can be.\
 
 * **Easy to use**\
-  Your [MetaMask](https://metamask.io/) wallet just works, you only have to change a single setting to access PulseChain. ETH holders can transact for free with freemium PLS.\
+  Your MetaMask wallet just works, you only have to change a single setting to access PulseChain. ETH holders can transact for free with freemium PLS.\
 
 * **Lower PulseChain fees and serve more users**\
   PulseChain is 17% faster than Ethereum with 10 second blocks instead of 12.\
