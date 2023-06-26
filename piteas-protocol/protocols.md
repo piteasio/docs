@@ -10,9 +10,9 @@ Piteas is a dex aggregator on Pulsechain, with integrated AMM protocols.
 #### The active protocols are:
 
 * <img src="../.gitbook/assets/pulsex.png" alt="" data-size="line"> PulseX ([https://pulsex.com](https://pulsex.com)) - V1 and V2 pools
-* <img src="../.gitbook/assets/hedron.png" alt="" data-size="line"> Hedron ([https://hedron.pro](https://hedron.pro/#/)) - Uniswap V2 and V3 pools
 * <img src="../.gitbook/assets/phux.png" alt="" data-size="line"> Phux.io ([https://phux.io](https://phux.io)) - Stable and Weighted Pools
 * <img src="../.gitbook/assets/velocimeter.png" alt="" data-size="line"> Velocimeter ([https://pulse.velocimeter.xyz](https://pulse.velocimeter.xyz)) - vAMM and sAMM pools
+* <img src="../.gitbook/assets/eazyswap.png" alt="" data-size="line"> Eazy Swap ([https://pulse.velocimeter.xyz](https://www.eazyswap.io)) - AMM Pools
 
 #### The incoming protocols to be integrated are:
 
