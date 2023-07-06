@@ -9,18 +9,13 @@ coverY: 0
 
 After a thorough review by [**SolidProof**](https://solidproof.io), no major issues were found in our contracts. Security remains our top priority, ensuring a robust and safe platform for **Pulsechain**.
 
-|                     |                                                                                              |
-| ------------------- | -------------------------------------------------------------------------------------------- |
-| Company             | SolidProof                                                                                   |
-| Status              | Passed ✅                                                                                     |
-| Date                | 07/05/2023                                                                                   |
-| Contracts on Github | [https://github.com/piteasio/piteas-contracts](https://github.com/piteasio/piteas-contracts) |
-| Report URL          | _Pending..._                                                                                 |
+<table><thead><tr><th width="236"></th><th></th></tr></thead><tbody><tr><td>Audit Company</td><td>SolidProof</td></tr><tr><td>Status</td><td>Passed ✅</td></tr><tr><td>Date</td><td>07/06/2023</td></tr><tr><td>Contracts on Github</td><td><a href="https://github.com/piteasio/piteas-contracts">https://github.com/piteasio/piteas-contracts</a></td></tr><tr><td>Report URL on Github</td><td><a href="https://github.com/solidproof/projects/tree/main/2023/Piteas"><em>https://github.com/solidproof/projects/tree/main/2023/Piteas</em></a></td></tr></tbody></table>
 
-{% hint style="info" %}
-Review Full Report on SolidProof Portal:\
-_Pending..._
-{% endhint %}
+#### Review Full Report (PDF File):
+
+{% file src=".gitbook/assets/SmartContract_Audit_Solidproof_Piteas.pdf" %}
+
+#### Security Introduction
 
 At Piteas, we prioritize the security and reliability of our smart contracts. We understand the importance of conducting a thorough audit to ensure the integrity and safety of our platform. We want to assure our users that we are committed to delivering a robust and secure trading experience.
 
