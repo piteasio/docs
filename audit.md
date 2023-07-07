@@ -15,6 +15,8 @@ After a thorough review by [**SolidProof**](https://solidproof.io), no major iss
 
 {% file src=".gitbook/assets/SmartContract_Audit_Solidproof_Piteas.pdf" %}
 
+<figure><img src=".gitbook/assets/vlcsnap-2023-07-05-18h11m26s316 (1).jpg" alt=""><figcaption></figcaption></figure>
+
 #### Security Introduction
 
 At Piteas, we prioritize the security and reliability of our smart contracts. We understand the importance of conducting a thorough audit to ensure the integrity and safety of our platform. We want to assure our users that we are committed to delivering a robust and secure trading experience.

@@ -9,9 +9,7 @@ coverY: 0
 
 At Piteas, we strive to offer the best rates for traders on Pulsechain. Our protocol sources liquidity from various exchanges, allowing us to provide competitive rates and ensure optimal returns for your trades. Here are some of the key features that set Piteas apart:
 
-
-
-### Features:
+### Features ✨
 
 #### Max Amount Received
 

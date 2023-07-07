@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/ad (1).jpg
+cover: ../.gitbook/assets/ad (1).jpg
 coverY: 0
 ---
 
@@ -24,7 +24,7 @@ The amount of compensation will vary depending on bug severity. Reward amounts t
 
 Severity is calculated according to the [OWASP](https://owasp.org/www-project-risk-assessment-framework/) risk rating model based on Impact and Likelihood.
 
-<figure><img src=".gitbook/assets/spaces_hBVFLntFXCM0TMmhxIGU_uploads_hIF1oIm6N3YdBa9lam1A_image.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/spaces_hBVFLntFXCM0TMmhxIGU_uploads_hIF1oIm6N3YdBa9lam1A_image.webp" alt=""><figcaption></figcaption></figure>
 
 ### Submissions <a href="#submissions" id="submissions"></a>
 

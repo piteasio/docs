@@ -8,13 +8,12 @@
 * [🧩 Protocols](piteas-protocol/protocols.md)
 * [💎 Features](piteas-protocol/features.md)
 * [🛣 Roadmap](piteas-protocol/roadmap.md)
+* [💖 About PulseChain](piteas-protocol/about-pulsechain.md)
 
 ***
 
-* [💖 About PulseChain](about-pulsechain.md)
 * [📄 Contracts](contracts.md)
 * [🛡 Audit](audit.md)
-* [🐛 Bug Bounty](bug-bounty.md)
 
 ## Piteas Token
 
@@ -25,6 +24,7 @@
 
 * [🌉 Branding Sources](support/branding-sources.md)
 * [🤝 Business Enquiries](support/business-enquiries.md)
+* [🐛 Bug Bounty](support/bug-bounty.md)
 * [❔ Help](support/help.md)
 
 ## Reference
