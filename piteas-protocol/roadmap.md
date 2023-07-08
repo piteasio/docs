@@ -25,8 +25,9 @@ coverY: 0
 
 #### 2023 | Q3
 
-* [ ] Audit contracts
-* [ ] Launch Piteas on Pulsechain mainnet ✔✨
+* [x] Audit contracts
+* [x] Native GraphQL for price feed
+* [x] Launch Piteas on Pulsechain mainnet ✔✨
 * [ ] New partnerships
 * [ ] Token announcement with details
 * [ ] Token and liquidity generation

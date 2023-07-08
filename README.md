@@ -13,7 +13,7 @@ Piteas serves as a dex aggregator that leverages the latest in swap technology. 
 
 Leveraging our advanced routing algorithm, Piteas ensures optimal pricing, minimal slippage, and maximized returns for every transaction.
 
-<figure><img src=".gitbook/assets/howitworks (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/howitworks.jpg" alt=""><figcaption></figcaption></figure>
 
 Let's take a closer look at how Piteas operates:
 
