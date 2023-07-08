@@ -15,6 +15,4 @@ Piteas token not launched yet. Please beware to unofficial contracts and tokens!
 
 ### Audit Reports:
 
-{% content-ref url="audit.md" %}
-[audit.md](audit.md)
-{% endcontent-ref %}
+{% file src=".gitbook/assets/SmartContract_Audit_Solidproof_Piteas.pdf" %}
