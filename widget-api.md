@@ -81,7 +81,7 @@ Swap route for **1000000 PLS to PHUX**
 
 ```
 <iframe
-    src="https://widget.piteas.io/#/swap?exactField=input&exactAmount=1000000&inputCurrency=ETH&outputCurrency=0x9663c2d75ffd5F4017310405fCe61720aF45B829"
+    src="https://widget.piteas.io/#/swap?theme=dark&exactField=input&exactAmount=1000000&inputCurrency=ETH&outputCurrency=0x9663c2d75ffd5F4017310405fCe61720aF45B829"
     height="720px"
     width="500px"
     style="
