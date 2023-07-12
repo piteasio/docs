@@ -22,7 +22,6 @@ Swap route for **1000 DAI to PLS**
       margin: 0 auto;
       margin-bottom: 0.5rem;
       display: block;
-      border-radius: 10px;
       max-width: 960px;
       min-width: 300px;
     "
@@ -89,7 +88,6 @@ Swap route for **1000000 PLS to PHUX**
       margin: 0 auto;
       margin-bottom: 0.5rem;
       display: block;
-      border-radius: 10px;
       max-width: 960px;
       min-width: 300px;
     "
