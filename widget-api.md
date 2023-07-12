@@ -16,7 +16,7 @@ Swap route for **1000 DAI to PLS**
 <iframe
     src="https://widget.piteas.io/#/swap?exactField=input&exactAmount=1000&inputCurrency=0xefD766cCb38EaF1dfd701853BFCe31359239F305&outputCurrency=ETH"
     height="720px"
-    width="500px"
+    width="100%"
     style="
       border: 0;
       margin: 0 auto;
@@ -83,7 +83,7 @@ Swap route for **1000000 PLS to PHUX**
 <iframe
     src="https://widget.piteas.io/#/swap?theme=dark&exactField=input&exactAmount=1000000&inputCurrency=ETH&outputCurrency=0x9663c2d75ffd5F4017310405fCe61720aF45B829"
     height="720px"
-    width="500px"
+    width="100%"
     style="
       border: 0;
       margin: 0 auto;
