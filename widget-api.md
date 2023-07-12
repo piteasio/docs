@@ -59,10 +59,6 @@ When selecting ETH as the output currency a user must also choose an inputCurren
 
 Two parameters, exactField and exactAmount can be used to set specific token amounts to be sold or bought. Both fields must be set in the URL or there will be no effect on the settings.
 
-#### Example Usage[​](https://docs.uniswap.org/contracts/v2/guides/interface-integration/custom-interface-linking#example-usage-1) <a href="#example-usage-1" id="example-usage-1"></a>
-
-> https://widget.piteas.io/#/swap?exactField=input\&exactAmount=100\&inputCurrency=0x95B303987A60C71504D99Aa1b13B4DA07b0790ab
-
 ***
 
 #### Global[​](https://docs.uniswap.org/contracts/v2/guides/interface-integration/custom-interface-linking#global) <a href="#global" id="global"></a>
