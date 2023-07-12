@@ -14,6 +14,7 @@
 
 * [📄 Contracts](contracts.md)
 * [🛡 Audit](audit.md)
+* [🖼 Widget API](widget-api.md)
 
 ## Piteas Token
 
