@@ -37,8 +37,6 @@ The Sacrifice Round will last for a total of 31 days, starting from July 22, 15:
 Please note that the Sacrifice Round will be active during this period, and once it is completed, no further sacrifices will be accepted.
 {% endhint %}
 
-> During the 31-day Sacrifice Round, the Multiplier Rate will gradually decrease each day. For example, on the 5th day, the Multiplier Rate will be 1.23X. Please refer to the table above for the complete schedule.
-
 #### Eligible Tokens
 
 Only specific tokens listed in the "Accepted Assets" section will be accepted for sacrifice. Any other contributions made with unsupported tokens will not be considered for the calculation of Sacrifice Points.
