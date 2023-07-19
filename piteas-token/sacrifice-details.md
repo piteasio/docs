@@ -6,7 +6,8 @@ coverY: 0
 # 🏦 Sacrifice Details
 
 {% hint style="danger" %}
-Sacrifice round has not started yet. Please stay tuned for further announcements!
+Sacrifice round has not started yet. Please stay tuned for further announcements!\
+**This content is currently in draft mode and being updated.**
 {% endhint %}
 
 #### **IMPORTANT DISCLAIMER**
@@ -15,7 +16,7 @@ Please note that the following information is provided for informational purpose
 
 ***
 
-### **Piteas Sacrifice Round Details**
+### **Sacrifice Details ✨**
 
 The Piteas Sacrifice Round is designed to provide an opportunity for participants to show their support for the Piteas protocol. It is important to understand that the sacrifice round is not an investment or a means to earn profits. Participants are contributing tokens to the protocol with no expectation of financial returns. Please carefully read the following information before sacrifice.
 
@@ -34,7 +35,7 @@ The Sacrifice Round will last for a total of 31 days, starting from July 22, 15:
 <table data-full-width="false"><thead><tr><th width="162.33333333333331">Period</th><th width="415" align="center">Date</th><th align="center">Multiplier Rate</th></tr></thead><tbody><tr><td>Day 1</td><td align="center">July 22, 15:00 UTC - July 23, 15:00 UTC</td><td align="center">1,30X</td></tr><tr><td>Day 2</td><td align="center">July 23, 15:00 UTC - July 24, 15:00 UTC</td><td align="center">1,29X</td></tr><tr><td>Day 3</td><td align="center">July 24, 15:00 UTC - July 25, 15:00 UTC</td><td align="center">1,28X</td></tr><tr><td>. . . </td><td align="center">. . . </td><td align="center">. . . </td></tr><tr><td>Day 29</td><td align="center">August 19, 15:00 UTC - August 20, 15:00 UTC</td><td align="center">1,02X</td></tr><tr><td>Day 30</td><td align="center">August 20, 15:00 UTC - August 21, 15:00 UTC</td><td align="center">1,01X</td></tr><tr><td>Day 31</td><td align="center">August 21, 15:00 UTC - August 22, 15:00 UTC</td><td align="center">1,00X</td></tr></tbody></table>
 
 {% hint style="info" %}
-Please note that the Sacrifice Round will be active during this period, and once it is completed, no further sacrifices will be accepted.
+Please note that the Piteas Sacrifice Round will be active during this period, and once it is completed, no further sacrifices will be accepted.
 {% endhint %}
 
 #### Eligible Tokens
@@ -47,16 +48,16 @@ It is important to make the sacrifice from a wallet where you have complete cont
 
 #### Points Calculation
 
-Sacrifice Points will be calculated based on the USD value at the time of the transaction. The points table will be updated every 30 minutes, reflecting the current status of each participant.
+Sacrifice Points will be calculated based on the USD value at the time of the transaction. The points table will be updated frequently on Sacrifice Portal, reflecting the current status of each participant.
 
 #### Airdrop Distribution
 
-At the Token Generation Event (TGE) phase, participants who made sacrifices will receive token airdrops based on their accumulated Sacrifice Points. There is no need to make any additional requests or claims for the airdrop. Official dates for the airdrop distribution will be communicated to the community.
+At the Piteas Token Generation Event (TGE) phase, participants who made sacrifices will receive token airdrops based on their accumulated Sacrifice Points. There is no need to make any additional requests or claims for the airdrop. Official dates for the airdrop distribution will be communicated to the community.
 
-After the completion of the Sacrifice Round, there will be a one-week break to consolidate the contributions. A portion of the assets will be allocated to provide liquidity for the token's swap operations across multiple decentralized exchanges (DEX) protocols. Additionally, a portion of the assets will be held in the treasury for potential future listings on both centralized and decentralized exchanges.
+After the completion of the Piteas Sacrifice Round, there will be a one-week break to consolidate the contributions. A portion of the assets will be allocated to provide liquidity for the token's swap operations across multiple decentralized exchanges (DEX) protocols. Additionally, a portion of the assets will be held in the treasury for potential future listings on both centralized and decentralized exchanges.
 
 ***
 
-_Please be aware that the Sacrifice Round is not intended as a profit-making endeavor, but rather a voluntary act of support for the protocol's principles. Participants are voluntarily contributing without any expectations of financial gains or protocol revenue sharing. The primary goal is to support the Piteas ecosystem and demonstrate a commitment to its principles and values._
+_Please be aware that the Piteas Sacrifice Round is not intended as a profit-making endeavor, but rather a voluntary act of support for the protocol's principles. Sacrificers are voluntarily contributing without any expectations of financial gains or protocol revenue sharing. The primary goal is to support the Piteas ecosystem and demonstrate a commitment to its principles and values._
 
 _Please be aware that participating in the sacrifice round carries its own risks and implications. Ensure you fully understand the terms and conditions outlined by the Piteas team and seek professional advice if needed._

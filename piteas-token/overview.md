@@ -7,6 +7,8 @@ coverY: 0
 
 {% hint style="danger" %}
 Piteas has no any governance or utility tokens yet! Please beware of scammers.
+
+**This content is currently in draft mode and being updated.**
 {% endhint %}
 
 Piteas is a project that generates revenue and has its own economic model. To strengthen the protocol, empower the community in decision-making, and manage the economy generated from the revenue, it will have a utility token that serves as governance and utility tool.
