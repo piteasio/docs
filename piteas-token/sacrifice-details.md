@@ -20,7 +20,7 @@ Please note that the following information is provided for informational purpose
 
 The Piteas Sacrifice Round is designed to provide an opportunity for participants to show their support for the Piteas protocol. It is important to understand that the sacrifice round is not an investment or a means to earn profits. Participants are contributing tokens to the protocol with no expectation of financial returns. Please carefully read the following information before sacrifice.
 
-Get started on **Piteas Sacrifice Portal** now 👇
+Get started on **Piteas Sacrifice Portal** now 👇 **(not live yet!)**
 
 {% embed url="https://sacrifice.piteas.io" %}
 
@@ -41,6 +41,8 @@ Please note that the Piteas Sacrifice Round will be active during this period, a
 #### Eligible Tokens
 
 Only specific tokens listed in the "Accepted Assets" section will be accepted for sacrifice. Any other contributions made with unsupported tokens will not be considered for the calculation of Sacrifice Points.
+
+<figure><img src="../.gitbook/assets/Sacrifice-Portal-Piteas-io.png" alt=""><figcaption></figcaption></figure>
 
 #### Wallet Restrictions
 
