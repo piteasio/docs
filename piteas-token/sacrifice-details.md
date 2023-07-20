@@ -5,6 +5,8 @@ coverY: 0
 
 # 🏦 Sacrifice Details
 
+
+
 {% hint style="danger" %}
 Sacrifice round has not started yet. Please stay tuned for further announcements!\
 **This content is currently in draft mode and being updated.**
@@ -43,6 +45,17 @@ Please note that the Piteas Sacrifice Round will be active during this period, a
 Only specific tokens listed in the "Accepted Assets" section will be accepted for sacrifice. Any other contributions made with unsupported tokens will not be considered for the calculation of Sacrifice Points.
 
 <figure><img src="../.gitbook/assets/Sacrifice-Portal-Piteas-io.png" alt=""><figcaption></figcaption></figure>
+
+#### **Leaderboard Bonus Program 🎁**
+
+After the completion of the Sacrifice phase, a bonus reward will be provided to the top 10 wallets listed on the leaderboard, in addition to their multiplier rate. The bonus percentages for the top-ranked wallets are as follows:
+
+* The 1st ranked wallet will receive an additional 10% bonus.
+* Wallets ranked 2nd to 5th will receive an additional 8% bonus.
+* Wallets ranked 5th to 10th will receive an additional 5% bonus.
+
+The bonus rate will be determined based on the estimated total points and will be displayed as "Bonus Points" in the Leaderboard section on the Sacrifice portal.\
+
 
 #### Wallet Restrictions
 
