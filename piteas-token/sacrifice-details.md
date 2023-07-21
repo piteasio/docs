@@ -24,6 +24,8 @@ The Piteas Sacrifice Round is designed to provide an opportunity for participant
 
 Get started on **Piteas Sacrifice Portal** now 👇 **(not live yet!)**
 
+Sacrifice Portal: [<mark style="color:green;">**sacrifice.piteas.io**</mark>](https://sacrifice.piteas.io) <mark style="color:green;">**✔**</mark>
+
 {% embed url="https://sacrifice.piteas.io" %}
 
 #### Objective:
