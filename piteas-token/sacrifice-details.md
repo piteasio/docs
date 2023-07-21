@@ -44,7 +44,7 @@ Please note that the Piteas Sacrifice Round will be active during this period, a
 
 Only specific tokens listed in the "Accepted Assets" section will be accepted for sacrifice. Any other contributions made with unsupported tokens will not be considered for the calculation of Sacrifice Points.
 
-<figure><img src="../.gitbook/assets/Sacrifice-Portal-Piteas-io.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Sacrifice-Portal-Piteas-io (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Leaderboard Bonus Program 🎁**
 
@@ -52,9 +52,7 @@ After the completion of the Sacrifice phase, a bonus reward will be provided to 
 
 * The 1st ranked wallet will receive an additional 10% bonus.
 * Wallets ranked 2nd to 5th will receive an additional 8% bonus.
-* Wallets ranked 5th to 10th will receive an additional 5% bonus.
-
-The bonus rate will be determined based on the estimated total points and will be displayed as "Bonus Points" in the Leaderboard section on the Sacrifice portal.\
+* Wallets ranked 5th to 10th will receive an additional 5% bonus.\
 
 
 #### Wallet Restrictions
@@ -65,9 +63,7 @@ It is important to make the sacrifice from a wallet where you have complete cont
 
 Sacrifice Points will be calculated based on the USD value at the time of the transaction. The points table will be updated frequently on Sacrifice Portal, reflecting the current status of each participant.
 
-#### Airdrop Distribution
-
-At the Piteas Token Generation Event (TGE) phase, participants who made sacrifices will receive token airdrops based on their accumulated Sacrifice Points. There is no need to make any additional requests or claims for the airdrop. Official dates for the airdrop distribution will be communicated to the community.
+#### Final Stage
 
 After the completion of the Piteas Sacrifice Round, there will be a one-week break to consolidate the contributions. A portion of the assets will be allocated to provide liquidity for the token's swap operations across multiple decentralized exchanges (DEX) protocols. Additionally, a portion of the assets will be held in the treasury for potential future listings on both centralized and decentralized exchanges.
 
