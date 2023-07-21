@@ -34,7 +34,7 @@ The Sacrifice Round is designed to demonstrate your commitment to the Piteas pro
 
 #### Duration and Multiplier Rate:
 
-The Piteas sacrifice round will last for a total of 31 days, starting from **July 22, 15:00 UTC**, until **August 21, 15:00 UTC**. Each day, the Multiplier Rate will decrease gradually as follows:
+The Piteas sacrifice round will last for a total of 31 days, starting from **July 22, 15:00 UTC**, until **August 22, 15:00 UTC**. Each day, the Multiplier Rate will decrease gradually as follows:
 
 <table data-full-width="false"><thead><tr><th width="162.33333333333331">Period</th><th width="415" align="center">Date</th><th align="center">Multiplier Rate</th></tr></thead><tbody><tr><td>Day 1</td><td align="center">July 22, 15:00 UTC - July 23, 15:00 UTC</td><td align="center">1,30X</td></tr><tr><td>Day 2</td><td align="center">July 23, 15:00 UTC - July 24, 15:00 UTC</td><td align="center">1,29X</td></tr><tr><td>Day 3</td><td align="center">July 24, 15:00 UTC - July 25, 15:00 UTC</td><td align="center">1,28X</td></tr><tr><td>. . . </td><td align="center">. . . </td><td align="center">. . . </td></tr><tr><td>Day 29</td><td align="center">August 19, 15:00 UTC - August 20, 15:00 UTC</td><td align="center">1,02X</td></tr><tr><td>Day 30</td><td align="center">August 20, 15:00 UTC - August 21, 15:00 UTC</td><td align="center">1,01X</td></tr><tr><td>Day 31</td><td align="center">August 21, 15:00 UTC - August 22, 15:00 UTC</td><td align="center">1,00X</td></tr></tbody></table>
 
