@@ -5,8 +5,6 @@ coverY: 0
 
 # 🏦 Sacrifice Details
 
-
-
 {% hint style="danger" %}
 Sacrifice round has not started yet. Please stay tuned for further announcements!\
 **This content is currently in draft mode and being updated.**
@@ -22,9 +20,11 @@ Please note that the following information is provided for informational purpose
 
 The Piteas Sacrifice Round is designed to provide an opportunity for participants to show their support for the Piteas protocol. It is important to understand that the sacrifice round is not an investment or a means to earn profits. Participants are contributing tokens to the protocol with no expectation of financial returns. Please carefully read the following information before sacrifice.
 
-Get started on **Piteas Sacrifice Portal** now 👇 **(not live yet!)**
+Get started on **Piteas Sacrifice Portal** now 👇
 
 Sacrifice Portal: [<mark style="color:green;">**sacrifice.piteas.io**</mark>](https://sacrifice.piteas.io) <mark style="color:green;">**✔**</mark>
+
+<figure><img src="../.gitbook/assets/ase3.jpg" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://sacrifice.piteas.io" %}
 
@@ -34,7 +34,7 @@ The Sacrifice Round is designed to demonstrate your commitment to the Piteas pro
 
 #### Duration and Multiplier Rate:
 
-The Sacrifice Round will last for a total of 31 days, starting from July 22, 15:00 UTC, until August 21, 15:00 UTC. Each day, the Multiplier Rate will decrease gradually as follows:
+The Piteas sacrifice round will last for a total of 31 days, starting from **July 22, 15:00 UTC**, until **August 21, 15:00 UTC**. Each day, the Multiplier Rate will decrease gradually as follows:
 
 <table data-full-width="false"><thead><tr><th width="162.33333333333331">Period</th><th width="415" align="center">Date</th><th align="center">Multiplier Rate</th></tr></thead><tbody><tr><td>Day 1</td><td align="center">July 22, 15:00 UTC - July 23, 15:00 UTC</td><td align="center">1,30X</td></tr><tr><td>Day 2</td><td align="center">July 23, 15:00 UTC - July 24, 15:00 UTC</td><td align="center">1,29X</td></tr><tr><td>Day 3</td><td align="center">July 24, 15:00 UTC - July 25, 15:00 UTC</td><td align="center">1,28X</td></tr><tr><td>. . . </td><td align="center">. . . </td><td align="center">. . . </td></tr><tr><td>Day 29</td><td align="center">August 19, 15:00 UTC - August 20, 15:00 UTC</td><td align="center">1,02X</td></tr><tr><td>Day 30</td><td align="center">August 20, 15:00 UTC - August 21, 15:00 UTC</td><td align="center">1,01X</td></tr><tr><td>Day 31</td><td align="center">August 21, 15:00 UTC - August 22, 15:00 UTC</td><td align="center">1,00X</td></tr></tbody></table>
 
