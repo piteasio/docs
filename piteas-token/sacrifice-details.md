@@ -5,14 +5,9 @@ coverY: 0
 
 # ✅ Sacrifice Details
 
-{% hint style="danger" %}
-Sacrifice round has not started yet. Please stay tuned for further announcements!\
-**This content is currently in draft mode and being updated.**
-{% endhint %}
-
 #### **IMPORTANT DISCLAIMER**
 
-Please note that the following information is provided for informational purposes only and should not be considered as professional advice. Consult with legal and financial professionals before making any decisions. _If you choose to participate, you must have no expectation of profit derived from the work of others._
+_Please note that the following information is provided for informational purposes only and should not be considered as professional advice. Consult with legal and financial professionals before making any decisions. If you choose to participate, you must have no expectation of profit derived from the work of others._
 
 ***
 
