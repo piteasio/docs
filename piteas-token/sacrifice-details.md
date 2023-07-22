@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/ad (1).jpg
 coverY: 0
 ---
 
-# 🏦 Sacrifice Details
+# ✅ Sacrifice Details
 
 {% hint style="danger" %}
 Sacrifice round has not started yet. Please stay tuned for further announcements!\

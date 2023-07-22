@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💠 Overview](README.md)
+* [🔆 Overview](README.md)
 
 ## Piteas Protocol
 
@@ -18,8 +18,9 @@
 
 ## Piteas Token
 
-* [🏦 Sacrifice Details](piteas-token/sacrifice-details.md)
-* [🪙 Overview](piteas-token/overview.md)
+* [✅ Sacrifice Details](piteas-token/sacrifice-details.md)
+* [💠 Overview](piteas-token/overview.md)
+* [🪙 Tokenomics](piteas-token/tokenomics.md)
 * [🐇 Token Utility](piteas-token/token-utility.md)
 
 ## Support
