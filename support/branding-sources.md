@@ -15,10 +15,16 @@ Piteas - Logo Pack
 
 #### Assets - Piteas
 
-<figure><img src="../.gitbook/assets/tw-cover.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/gb-cover (4).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/tw-cover3.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/tw-cover.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/1280-640-landing.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/args1.jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/og-image.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/gb-cover (4).jpg" alt=""><figcaption></figcaption></figure>

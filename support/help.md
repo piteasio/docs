@@ -5,6 +5,6 @@ coverY: 0
 
 # ❔ Help
 
-Please DM to us for all questions on Twitter & Telegram.
+Please DM to us for all request on Twitter & Telegram.
 
 We'll response your mail as soon as possible!

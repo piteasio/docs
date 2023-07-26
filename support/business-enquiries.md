@@ -7,4 +7,4 @@ coverY: 0
 
 Please DM to us for all proposals on Twitter & Telegram.
 
-We'll response your mail as soon as possible!
+We'll response your request as soon as possible!
