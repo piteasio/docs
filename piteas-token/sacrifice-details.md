@@ -25,7 +25,7 @@ Sacrifice Wallet: **0x369369241540fcE89E1027529c5dA447C79b6450**
 
 #### Objective:
 
-The Sacrifice Round is designed to demonstrate your commitment to the Piteas protocol and its core principles. It is NOT an investment opportunity, and no expectation of profit should be associated with your participation. By making a sacrifice, you are making a political statement about the importance of decentralized finance.
+The Sacrifice Round is designed to demonstrate your commitment to the Piteas protocol and its core principles. It is NOT an investment opportunity, and no expectation of profit should be associated with your participation. By making a sacrifice, you are making a **political statement** about the importance of decentralized finance.
 
 #### Duration and Multiplier Rate:
 
