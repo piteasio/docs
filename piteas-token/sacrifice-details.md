@@ -19,9 +19,9 @@ Get started on **Piteas Sacrifice Portal** now 👇
 
 Sacrifice Portal: [<mark style="color:green;">**sacrifice.piteas.io**</mark>](https://sacrifice.piteas.io) <mark style="color:green;">**✔**</mark>
 
-<figure><img src="../.gitbook/assets/ase3.jpg" alt=""><figcaption></figcaption></figure>
+Sacrifice Wallet: **0x369369241540fcE89E1027529c5dA447C79b6450**
 
-{% embed url="https://sacrifice.piteas.io" %}
+<figure><img src="../.gitbook/assets/ase3.jpg" alt=""><figcaption></figcaption></figure>
 
 #### Objective:
 
