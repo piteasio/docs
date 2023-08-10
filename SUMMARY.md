@@ -20,6 +20,7 @@
 
 * [✅ Sacrifice Details](piteas-token/sacrifice-details.md)
 * [💠 Overview](piteas-token/overview.md)
+* [💸 Revenue Model](piteas-token/revenue-model.md)
 * [🪙 Tokenomics](piteas-token/tokenomics.md)
 * [🐇 Token Utility](piteas-token/token-utility.md)
 
