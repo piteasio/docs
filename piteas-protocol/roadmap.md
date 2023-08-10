@@ -28,10 +28,10 @@ coverY: 0
 * [x] Audit contracts
 * [x] Native GraphQL for price feed
 * [x] Launch Piteas on Pulsechain mainnet ✔✨
+* [x] Release new revenue model
 * [ ] New partnerships
 * [ ] Token announcement with details
 * [ ] Token and liquidity generation
-* [ ] Release revenue model
 
 #### 2023 | Q4
 
