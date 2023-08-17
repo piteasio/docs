@@ -23,3 +23,4 @@ Piteas token not launched yet. Please beware to unofficial contracts and tokens!
 
 <table><thead><tr><th width="291">Wallet</th><th>Address</th></tr></thead><tbody><tr><td>Revenue Wallet #1</td><td>0x31415995b2ffaDf05FE929fDB6a87FD18A2817dD</td></tr><tr><td>Treasury Wallet #1</td><td>0x0101838F92c2e6cbE6C2Be716056A0a291f6824a</td></tr><tr><td>Sacrifice Wallet</td><td>0x369369241540fcE89E1027529c5dA447C79b6450</td></tr></tbody></table>
 
+> _The treasury wallets here are managed by the Piteas team. They can be used for transferring funds externally due to the protocol's needs, making payments for expenses, providing funding for development stages, and can be used in various ways for token utility purposes._

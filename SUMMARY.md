@@ -12,7 +12,7 @@
 
 ***
 
-* [💸 Revenue Model](revenue-model.md)
+* [💸 Revenue Model](piteas-token/revenue-model.md)
 * [📄 Contracts](contracts.md)
 * [🛡 Audit](audit.md)
 * [🖼 Widget API](widget-api.md)
