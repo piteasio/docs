@@ -12,4 +12,8 @@ To find the offer of other dex protocols, Piteas runs a secondary pathfinder int
 
 The second revenue model is positive slippage. This represents the profit generated from the change in liquidity on the network until the swap transaction is confirmed, which positively affects the output amount.
 
+{% hint style="success" %}
+At least 50% of protocol revenue is used/will be used as token utility.
+{% endhint %}
+
 _We are continuing the development process to create new use cases for PTS Token and provide privileges for token holders._
