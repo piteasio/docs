@@ -5,6 +5,11 @@ coverY: 0
 
 # ✅ Sacrifice Details
 
+{% hint style="success" %}
+**The Sacrifice phase has ended!**\
+A big thank you to everyone who empowered Piteas ❤✨
+{% endhint %}
+
 #### **IMPORTANT DISCLAIMER**
 
 _Please note that the following information is provided for informational purposes only and should not be considered as professional advice. Consult with legal and financial professionals before making any decisions. If you choose to participate, you must have no expectation of profit derived from the work of others._
