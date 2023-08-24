@@ -1,9 +1,7 @@
 # 🪙 Tokenomics
 
-{% hint style="danger" %}
-Piteas has no any governance or utility tokens yet! Please beware of scammers.
-
-**This content is currently in draft mode and being updated.**
+{% hint style="success" %}
+Please be cautious of fake token addresses and contracts. We strongly recommend ensuring you are using the official token contract only!
 {% endhint %}
 
 ### **PTS Token**
@@ -16,7 +14,11 @@ PTS Token is the utility token of Piteas and represents voting rights in the upc
 * Deflationary model: The token's supply will continuously decrease based on the protocol's revenue.
 * Fundamental for upcoming features: PTS Token serves as a cornerstone for various features that will be launched in the future, including Gasless trade, swap fee reduce, etc.
 
+#### Token Contract and Details 👇
 
+{% content-ref url="overview.md" %}
+[overview.md](overview.md)
+{% endcontent-ref %}
 
 ### **Tokenomics Detail:**
 

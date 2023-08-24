@@ -19,10 +19,10 @@
 
 ## Piteas Token
 
-* [✅ Sacrifice Details](piteas-token/sacrifice-details.md)
 * [💠 Overview](piteas-token/overview.md)
 * [🪙 Tokenomics](piteas-token/tokenomics.md)
 * [🐇 Token Utility](piteas-token/token-utility.md)
+* [🌕 Sacrifice Details](piteas-token/sacrifice-details.md)
 
 ## Support
 
