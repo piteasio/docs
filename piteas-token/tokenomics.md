@@ -28,7 +28,7 @@ Here are some details about token allocations 👇
 
 * **Protocol Treasury**: Allocated for Piteas' future plans and is decided not to be used without community approval. It can be used in later stages with community approval for purposes like expanding to different networks, sourcing liquidity, or similar processes.
 * **Airdrop**: Allocated for individuals who contributed during the sacrifice process and distributed fairly. A small portion is reserved for potential airdrops to incentivize protocol usage in the future.
-* **Liquidity Reserve**: Approximately 80% provided as liquidity during the token launch phase. The remaining assets are held in reserve for future liquidity provision stages.
+* **Liquidity Reserve**: Approximately 75% provided as liquidity during the token launch phase. The remaining assets are held in reserve for future liquidity provision stages.
 * **Incentives and Rewards**: Used for rewarding liquidity providers and stakers, supporting protocol partnerships, funding developments that help grow the ecosystem, grants, and other related purposes.
 * **Team & Contributors**: Allocated for developers and salaried individuals who support the protocol's development.
 * **Development & Marketing**: Allocated to cover expenses related to marketing Piteas and to support the majority of technological developments and expenses of the protocol.
