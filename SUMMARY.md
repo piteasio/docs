@@ -35,7 +35,6 @@
 
 * [Website](https://piteas.io)
 * [Aggregator App](https://app.piteas.io)
-* [Sacrifice Portal](https://sacrifice.piteas.io)
 * [Twitter](https://twitter.com/piteasio)
 * [Telegram](https://t.me/piteasio)
 * [Github](https://github.com/piteasio)
