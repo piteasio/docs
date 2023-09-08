@@ -16,3 +16,11 @@ The PTS Token, which will serve as the governance and utility token for Piteas, 
 {% hint style="success" %}
 Please be cautious of fake token addresses and contracts. We strongly recommend ensuring you are using the official token contract only!
 {% endhint %}
+
+***
+
+#### Piteas Token ($PTS) on Coingecko
+
+You can find statistics and details about Piteas Token ($PTS), one of the most important protocols in the crypto ecosystem, on Coingecko.
+
+{% embed url="https://www.coingecko.com/en/coins/piteas" %}

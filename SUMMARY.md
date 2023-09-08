@@ -23,6 +23,7 @@
 * [🪙 Tokenomics](piteas-token/tokenomics.md)
 * [🐇 Token Utility](piteas-token/token-utility.md)
 * [🌕 Sacrifice Details](piteas-token/sacrifice-details.md)
+* [CoinGecko](https://www.coingecko.com/en/coins/piteas)
 
 ## Support
 
