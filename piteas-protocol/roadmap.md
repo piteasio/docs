@@ -29,20 +29,22 @@ coverY: 0
 * [x] Native GraphQL for price feed
 * [x] Launch Piteas on Pulsechain mainnet ✔✨
 * [x] Release new revenue model
-* [ ] New partnerships
-* [ ] Token announcement with details
-* [ ] Token and liquidity generation
+* [x] Token announcement with details
+* [x] Piteas Token $PTS launch
+* [x] Token and liquidity generation
+* [x] Pathfinder update
+* [x] Piteas API for whitelisted protocols
 
 #### 2023 | Q4
 
+* [ ] Limit order execution with aggregator
 * [ ] Integrate Piteas API to other protocols
-* [ ] Open source router API
+* [ ] Single side staking
 * [ ] Integrate new liquidity sources
-* [ ] Single and LP staking
+* [ ] Piteas API for public
 
 #### 2024 | Q1
 
-* [ ] Limit order
 * [ ] Gasless trading
 * [ ] One-click swap with bridge dapps
 * [ ] One-click swap with on-ramp
