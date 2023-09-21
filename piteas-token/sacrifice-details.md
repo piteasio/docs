@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/ad (1).jpg
 coverY: 0
 ---
 
-# ✅ Sacrifice Details
+# 🌕 Sacrifice Details
 
 {% hint style="success" %}
 **The Sacrifice phase has ended!**\

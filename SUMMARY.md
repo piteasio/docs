@@ -7,11 +7,10 @@
 * [🎯 Dex Aggregator](piteas-protocol/dex-aggregator.md)
 * [🧩 Protocols](piteas-protocol/protocols.md)
 * [💎 Features](piteas-protocol/features.md)
-* [🛣 Roadmap](piteas-protocol/roadmap.md)
-* [💖 About PulseChain](piteas-protocol/about-pulsechain.md)
 
 ***
 
+* [🛣 Roadmap](roadmap.md)
 * [💸 Revenue Model](piteas-token/revenue-model.md)
 * [📄 Contracts](contracts.md)
 * [🛡 Audit](audit.md)
