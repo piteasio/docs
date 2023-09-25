@@ -30,12 +30,11 @@
 * [🌉 Branding Sources](support/branding-sources.md)
 * [🤝 Business Enquiries](support/business-enquiries.md)
 * [🐛 Bug Bounty](support/bug-bounty.md)
-* [❔ Help](support/help.md)
 
 ## Reference
 
 * [Website](https://piteas.io)
-* [Aggregator App](https://app.piteas.io)
+* [Piteas App](https://app.piteas.io)
 * [Twitter](https://twitter.com/piteasio)
 * [Telegram](https://t.me/piteasio)
 * [Github](https://github.com/piteasio)
