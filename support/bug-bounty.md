@@ -15,12 +15,12 @@ To be eligible a bounty, a bug must have not been previously known by the Piteas
 
 The amount of compensation will vary depending on bug severity. Reward amounts typically correspond to severity in the following manner. The reward currency can be discussed on a case by case basis.
 
-| Severity |               Reward |
-| -------- | -------------------: |
-| Low      |                 $250 |
-| Medium   |               $1,000 |
-| High     |              $10,000 |
-| Critical | 10% of funds at risk |
+| Severity |                 Reward |
+| -------- | ---------------------: |
+| Low      |                   $250 |
+| Medium   |                 $1,000 |
+| High     |                $10,000 |
+| Critical | 0-10% of funds at risk |
 
 Severity is calculated according to the [OWASP](https://owasp.org/www-project-risk-assessment-framework/) risk rating model based on Impact and Likelihood.
 
@@ -28,7 +28,7 @@ Severity is calculated according to the [OWASP](https://owasp.org/www-project-ri
 
 ### Submissions <a href="#submissions" id="submissions"></a>
 
-Please email your submissions to bugs@piteas.io.
+Please DM your submissions on our social media channels or Telegram.
 
 The submission must include clear and concise steps to reproduce the discovered vulnerability. The following layout of the bug bounty report is encouraged:
 
