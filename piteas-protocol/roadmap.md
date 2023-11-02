@@ -37,11 +37,11 @@ coverY: 0
 
 #### 2023 | Q4
 
-* [ ] Limit order execution with aggregator
-* [ ] Integrate Piteas API to other protocols
-* [ ] Single side staking
 * [ ] Integrate new liquidity sources
+* [ ] Integrate Piteas API to other protocols
 * [ ] Piteas API for public
+* [ ] Single side staking
+* [ ] Limit order execution with aggregator (or Q1/24)
 
 #### 2024 | Q1
 
