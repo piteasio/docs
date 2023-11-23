@@ -32,19 +32,19 @@ coverY: 0
 * [x] Token announcement with details
 * [x] Piteas Token $PTS launch
 * [x] Token and liquidity generation
-* [x] Pathfinder update
-* [x] Piteas API for whitelisted protocols
 
 #### 2023 | Q4
 
-* [ ] Integrate new liquidity sources
-* [ ] Integrate Piteas API to other protocols
+* [x] Piteas API for whitelisted protocols
+* [x] Major pathfinder upgrade
+* [x] Integrate new liquidity sources
+* [x] Integrate Piteas API to other protocols
 * [ ] Piteas API for public
-* [ ] Single side staking
-* [ ] Limit order execution with aggregator (or Q1/24)
+* [ ] Single side staking for Piteas Token (maybe Q1/24)
 
 #### 2024 | Q1
 
+* [ ] Limit order execution with aggregator
 * [ ] Gasless trading
 * [ ] One-click swap with bridge dapps
 * [ ] One-click swap with on-ramp
