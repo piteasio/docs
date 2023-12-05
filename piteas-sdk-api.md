@@ -42,7 +42,7 @@ Example: 0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433\
 Use **PLS** for native token
 {% endswagger-parameter %}
 
-{% swagger-parameter in="query" name="tokenInChainId" required="true" type="number" %}
+{% swagger-parameter in="query" name="tokenInChainId" required="true" type="integer" %}
 Default: **369**
 {% endswagger-parameter %}
 
@@ -51,7 +51,7 @@ Example: 0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433\
 Use **PLS** for native token
 {% endswagger-parameter %}
 
-{% swagger-parameter in="query" name="tokenOutChainId" required="true" type="number" %}
+{% swagger-parameter in="query" name="tokenOutChainId" required="true" type="integer" %}
 Default: **369**
 {% endswagger-parameter %}
 
@@ -59,8 +59,13 @@ Default: **369**
 Amount with decimals
 {% endswagger-parameter %}
 
-{% swagger-parameter in="query" name="allowedSlippage" type="string" required="true" %}
+{% swagger-parameter in="query" name="allowedSlippage" type="float" required="true" %}
 Default: **0.5**
+{% endswagger-parameter %}
+
+{% swagger-parameter in="query" name="account" type="string" %}
+Receiver address.\
+Not required and default account is msg.sender.
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="Quote Success" %}
