@@ -32,9 +32,9 @@ The SDK version is in the beta stage, so please avoid sending more than **10 req
 > \
 > https://**sdk.piteas.io**/quote?tokenInAddress=PLS\&tokenOutAddress=0xefD766cCb38EaF1dfd701853BFCe31359239F305\&amount=1000000000000000000000000\&allowedSlippage=0.50
 
-{% swagger method="get" path="/quote" baseUrl="https://sdk.piteas.io" summary="Quote" %}
+{% swagger method="get" path="/quote" baseUrl="https://sdk.piteas.io" summary="Swap Quote Parameters" expanded="true" %}
 {% swagger-description %}
-Swap quote request on Piteas SDK
+Get swap quote on Piteas SDK on Pulsechain
 {% endswagger-description %}
 
 {% swagger-parameter in="query" required="true" name="tokenInAddress" type="string" %}
