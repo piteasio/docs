@@ -12,12 +12,12 @@ You can send this request form via Telegram/Twitter to initiate the integration/
 
 ***
 
-### Piteas Public API - SDK Beta Release
+### Piteas Public API - SDK <mark style="color:green;">Beta</mark> Release
 
 Piteas SDK beta release has been published. Please note that this version may contain errors and is in the development stage. Ensure you consider request limits.
 
 {% hint style="success" %}
-To execute the swap process, sending the calldata from the response data to the swap function in [PiteasRouter ](contracts.md)is sufficient. You can adjust the necessary value data and gas estimate settings according to your conditions. Please also take a look at the router contract because the arguments in the response data are defined for the conditions in the contract.
+To execute the swap process, sending the **calldata** on **methodParameters** from the response data to the [**PiteasRouter** ](contracts.md)is sufficient. Adjust the necessary value data and gas estimate settings according to your conditions. Please also take a look at the router contract because the arguments in the response are defined for the conditions in the contract.
 {% endhint %}
 
 The SDK version is in the beta stage, so please avoid sending more than **10 requests per minute**. Exceeding this limit may result in your blockage and cause access issues for one hour. Limits will be adjusted after the beta version.
@@ -28,9 +28,9 @@ The SDK version is in the beta stage, so please avoid sending more than **10 req
 
 ### Request Example and API parameters
 
-> Test URL for 1,000,000 PLS to DAI :arrow\_down\_small:\
+> Example URL for 1,000,000 PLS to DAI :arrow\_down\_small:\
 > \
-> https://**sdk.piteas.io**/quote?tokenInAddress=PLS\&tokenInChainId=369\&tokenOutAddress=0xefD766cCb38EaF1dfd701853BFCe31359239F305\&tokenOutChainId=369\&amount=1000000000000000000000000\&allowedSlippage=0.50
+> https://**sdk.piteas.io**/quote?tokenInAddress=PLS\&tokenOutAddress=0xefD766cCb38EaF1dfd701853BFCe31359239F305\&amount=1000000000000000000000000\&allowedSlippage=0.50
 
 {% swagger method="get" path="/quote" baseUrl="https://sdk.piteas.io" summary="Quote" %}
 {% swagger-description %}
@@ -42,17 +42,9 @@ Example: 0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433\
 Use **PLS** for native token
 {% endswagger-parameter %}
 
-{% swagger-parameter in="query" name="tokenInChainId" required="true" type="integer" %}
-Default: **369**
-{% endswagger-parameter %}
-
 {% swagger-parameter in="query" name="tokenOutAddress" required="true" type="string" %}
 Example: 0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433\
 Use **PLS** for native token
-{% endswagger-parameter %}
-
-{% swagger-parameter in="query" name="tokenOutChainId" required="true" type="integer" %}
-Default: **369**
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="amount" required="true" type="integer" %}
@@ -88,7 +80,6 @@ Not required and default account is msg.sender.
   "gasUseEstimate": 4025000,
   "gasUseEstimateUSD": 0.033025699048724835,
   "methodParameters": {
-    "data": "...",
     "calldata": "...",
     "value": "0xd3c21bcecceda1000000"
   },
@@ -110,5 +101,13 @@ Not required and default account is msg.sender.
 
 {% swagger-response status="429: Too Many Requests" description="Limit Error" %}
 Please note that you cannot send more than **10 requests within 1 minute**. If you exceed this limit and encounter a 429 error, you will be **blocked** by the SDK manager for **one hour**.
+{% endswagger-response %}
+
+{% swagger-response status="500: Internal Server Error" description="Server Issue" %}
+If the pathfinder encounters issues resolving some routes, and this error persists multiple times, it means that quotes cannot be provided for the selected route.
+{% endswagger-response %}
+
+{% swagger-response status="403: Forbidden" description="Blocked IPs" %}
+IP address may be blacklisted due to requests made for malicious purposes. If access issues are occurring due to this error, please contact our development team immediately.
 {% endswagger-response %}
 {% endswagger %}
