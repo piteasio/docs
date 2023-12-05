@@ -15,7 +15,7 @@
 * [📄 Contracts](contracts.md)
 * [🛡 Audit](audit.md)
 * [🖼 Widget API](widget-api.md)
-* [⛓ Piteas SDK/API](piteas-sdk-api.md)
+* [⛓ Pathfinder API & SDK](pathfinder-api-and-sdk.md)
 
 ## Piteas Token
 
