@@ -39,11 +39,11 @@ coverY: 0
 * [x] Major pathfinder upgrade
 * [x] Integrate new liquidity sources
 * [x] Integrate Piteas API to other protocols
-* [ ] Piteas API for public
-* [ ] Single side staking for Piteas Token (maybe Q1/24)
+* [x] Piteas API for public - _beta release_
 
 #### 2024 | Q1
 
+* [ ] Single side staking for PTS
 * [ ] Limit order execution with aggregator
 * [ ] Gasless trading
 * [ ] One-click swap with bridge dapps
