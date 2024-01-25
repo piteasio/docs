@@ -46,7 +46,5 @@ coverY: 0
 * [ ] Single side staking for PTS
 * [ ] Limit order execution with aggregator
 * [ ] Gasless trading
-* [ ] One-click swap with bridge dapps
-* [ ] One-click swap with on-ramp
 
 ###
