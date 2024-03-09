@@ -10,12 +10,12 @@
 
 ***
 
-* [🛣 Roadmap](piteas-protocol/roadmap.md)
+* [🛣️ Roadmap](piteas-protocol/roadmap.md)
 * [💸 Revenue Model](piteas-token/revenue-model.md)
 * [📄 Contracts](contracts.md)
-* [🛡 Audit](audit.md)
-* [🖼 Widget API](widget-api.md)
-* [⛓ Piteas SDK/API](piteas-sdk-api.md)
+* [🛡️ Audit](audit.md)
+* [🖼️ Widget API](widget-api.md)
+* [⛓️ Piteas SDK/API](piteas-sdk-api.md)
 
 ## Piteas Token
 

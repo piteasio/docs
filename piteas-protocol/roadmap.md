@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/ad (1).jpg
 coverY: 0
 ---
 
-# 🛣 Roadmap
+# 🛣️ Roadmap
 
 ## Our Mission
 
@@ -43,8 +43,16 @@ coverY: 0
 
 #### 2024 | Q1
 
+* [x] New liquidity sources
+* [x] Request load balancer for quotes
+* [x] Accuracy improvement on pathfinder
+* [x] Packaging of on-chain data for optimization
+
+#### Upcoming
+
 * [ ] Single side staking for PTS
-* [ ] Limit order execution with aggregator
+* [ ] Search for cohesive liquidity between routes
+* [ ] ML/AI improvements
 * [ ] Gasless trading
 
 ###
