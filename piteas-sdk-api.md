@@ -105,7 +105,7 @@ IP address may be blacklisted due to requests made for malicious purposes. If ac
 
 
 
-Here is an example for send tx to Piteas Router:
+A standard code use with ether.js to send a transaction to PiteasRouter:
 
 ```
 const tx = await signer.sendTransaction({
