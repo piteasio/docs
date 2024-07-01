@@ -15,7 +15,7 @@ coverY: 0
 
 ### Roadmap
 
-#### 2023 | Q2
+#### 2023 | H1
 
 * [x] Release branding and sources
 * [x] Launch website and docs
@@ -23,7 +23,7 @@ coverY: 0
 * [x] Aggregator improvements
 * [x] Protocol launch on closed testnet
 
-#### 2023 | Q3
+#### 2023 | H2
 
 * [x] Audit contracts
 * [x] Native GraphQL for price feed
@@ -32,21 +32,20 @@ coverY: 0
 * [x] Token announcement with details
 * [x] Piteas Token $PTS launch
 * [x] Token and liquidity generation
-
-#### 2023 | Q4
-
 * [x] Piteas API for whitelisted protocols
 * [x] Major pathfinder upgrade
 * [x] Integrate new liquidity sources
 * [x] Integrate Piteas API to other protocols
 * [x] Piteas API for public - _beta release_
 
-#### 2024 | Q1
+#### 2024 | H1
 
 * [x] New liquidity sources
 * [x] Request load balancer for quotes
 * [x] Accuracy improvement on pathfinder
 * [x] Packaging of on-chain data for optimization
+* [x] Offchain instance improvements
+* [x] Create GraphQL database
 
 #### Upcoming
 
@@ -54,5 +53,5 @@ coverY: 0
 * [ ] Search for cohesive liquidity between routes
 * [ ] ML/AI improvements
 * [ ] Gasless trading
+* [ ] Piteas V2 launch&#x20;
 
-###
