@@ -1,4 +1,4 @@
-# ⛓ Piteas SDK/API
+# ⛓️ Piteas SDK/API
 
 <figure><img src=".gitbook/assets/pt2.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -34,35 +34,24 @@ The SDK version is in the beta stage, so please avoid sending more than **10 req
 > \
 > https://**sdk.piteas.io**/quote?tokenInAddress=PLS\&tokenOutAddress=0xefD766cCb38EaF1dfd701853BFCe31359239F305\&amount=1000000000000000000000000\&allowedSlippage=0.50
 
-{% swagger method="get" path="/quote" baseUrl="https://sdk.piteas.io" summary="Swap Quote Parameters" expanded="true" %}
-{% swagger-description %}
+## Swap Quote Parameters
+
+<mark style="color:blue;">`GET`</mark> `https://sdk.piteas.io/quote`
+
 Get swap quote on Piteas SDK on Pulsechain
-{% endswagger-description %}
 
-{% swagger-parameter in="query" required="true" name="tokenInAddress" type="string" %}
-Example: 0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433\
-Use **PLS** for native token
-{% endswagger-parameter %}
+#### Query Parameters
 
-{% swagger-parameter in="query" name="tokenOutAddress" required="true" type="string" %}
-Example: 0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433\
-Use **PLS** for native token
-{% endswagger-parameter %}
+| Name                                              | Type    | Description                                                                                             |
+| ------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------- |
+| tokenInAddress<mark style="color:red;">\*</mark>  | string  | <p>Example: 0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433<br>Use <strong>PLS</strong> for native token</p> |
+| tokenOutAddress<mark style="color:red;">\*</mark> | string  | <p>Example: 0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433<br>Use <strong>PLS</strong> for native token</p> |
+| amount<mark style="color:red;">\*</mark>          | integer | Amount with decimals                                                                                    |
+| allowedSlippage<mark style="color:red;">\*</mark> | float   | Default: **0.5**                                                                                        |
+| account                                           | string  | <p>Receiver address.<br>Not required and default account is msg.sender.</p>                             |
 
-{% swagger-parameter in="query" name="amount" required="true" type="integer" %}
-Amount with decimals
-{% endswagger-parameter %}
-
-{% swagger-parameter in="query" name="allowedSlippage" type="float" required="true" %}
-Default: **0.5**
-{% endswagger-parameter %}
-
-{% swagger-parameter in="query" name="account" type="string" %}
-Receiver address.\
-Not required and default account is msg.sender.
-{% endswagger-parameter %}
-
-{% swagger-response status="200: OK" description="Quote Success" %}
+{% tabs %}
+{% tab title="200: OK Quote Success" %}
 ```json
 {
   "srcToken": {
@@ -99,17 +88,29 @@ Not required and default account is msg.sender.
   }
 }
 ```
-{% endswagger-response %}
+{% endtab %}
 
-{% swagger-response status="429: Too Many Requests" description="Limit Error" %}
+{% tab title="429: Too Many Requests Limit Error" %}
 Please note that you cannot send more than **10 requests within 1 minute**. If you exceed this limit and encounter a 429 error, you will be **blocked** by the SDK manager for **one hour**.
-{% endswagger-response %}
+{% endtab %}
 
-{% swagger-response status="500: Internal Server Error" description="Server Issue" %}
+{% tab title="500: Internal Server Error Server Issue" %}
 If the pathfinder encounters issues resolving some routes, and this error persists multiple times, it means that quotes cannot be provided for the selected route.
-{% endswagger-response %}
+{% endtab %}
 
-{% swagger-response status="403: Forbidden" description="Blocked IPs" %}
+{% tab title="403: Forbidden Blocked IPs" %}
 IP address may be blacklisted due to requests made for malicious purposes. If access issues are occurring due to this error, please contact our development team immediately.
-{% endswagger-response %}
-{% endswagger %}
+{% endtab %}
+{% endtabs %}
+
+
+
+Here is an example for send tx to Piteas Router:
+
+```
+const tx = await signer.sendTransaction({
+    to: '0x6BF228eb7F8ad948d37deD07E595EfddfaAF88A6',
+    value: quote.methodParameters.value,
+    data: quote.methodParameters.calldata,
+});
+```
