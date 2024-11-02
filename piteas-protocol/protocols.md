@@ -9,16 +9,15 @@ Piteas is a dex aggregator on Pulsechain, with integrated AMM protocols.
 
 #### The active protocols are:
 
-* <img src="../.gitbook/assets/pulsex.png" alt="" data-size="line"> PulseX ([https://pulsex.com](https://pulsex.com)) - V1 and V2 Pools
-* <img src="../.gitbook/assets/phux.png" alt="" data-size="line"> Phux.io ([https://phux.io](https://phux.io)) - Stable and Weighted Pools
-* <img src="../.gitbook/assets/9inch.png" alt="" data-size="line"> 9inch ([https://www.9inch.io](https://www.9inch.io)) - Uniswap v2 Pools
-* <img src="../.gitbook/assets/9mm.png" alt="" data-size="line"> 9mm ([https://9mm.pro](https://9mm.pro)) - Pancakeswap V2 & V3 Pools
-* <img src="../.gitbook/assets/velocimeter.png" alt="" data-size="line"> Velocimeter ([https://pulse.velocimeter.xyz](https://pulse.velocimeter.xyz)) - vAMM and sAMM Pools
-* <img src="../.gitbook/assets/eazyswap.png" alt="" data-size="line"> Eazy Swap ([https://pulse.velocimeter.xyz](https://www.eazyswap.io)) - AMM Pools
+* <img src="../.gitbook/assets/pulsex.png" alt="" data-size="line"> PulseX - V1, V2 and StableSwap Pools
+* <img src="../.gitbook/assets/phux.png" alt="" data-size="line"> Phux.io - ComposableStable and Weighted Pools
+* <img src="../.gitbook/assets/9inch.png" alt="" data-size="line"> 9inch - V2 and V3 Pools
+* <img src="../.gitbook/assets/9mm.png" alt="" data-size="line"> 9mm - V2 and V3 Pools
+* <img src="https://piteas.io/img/integrations/dextop.png" alt="" data-size="line"> Dextop - V2 and V3 Pools
+* <img src="https://piteas.io/img/integrations/sparkswap.png" alt="" data-size="line"> SparkSwap- V2 Pools _(paused)_
+* <img src="../.gitbook/assets/velocimeter.png" alt="" data-size="line"> Velocimeter - vAMM and sAMM Pools _(paused)_
+* <img src="../.gitbook/assets/eazyswap.png" alt="" data-size="line"> Eazy Swap - AMM Pools _(paused)_
 
-#### Waiting for update:
 
-* Pulse Rate
-* Sparkswap
 
 These protocols are part of Piteas' integration, offering users a diverse range of liquidity and enhanced trading opportunities.
