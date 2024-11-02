@@ -46,6 +46,17 @@ coverY: 0
 * [x] Packaging of on-chain data for optimization
 * [x] Offchain instance improvements
 * [x] Create GraphQL database
+* [x] Surpassed 1 million swaps
+
+#### 2024 | H2
+
+* [x] Enhanced deep search capabilities in Pathfinder
+* [x] Fee model improvements
+* [x] New liquidity sources
+* [x] UI updates
+* [x] Calldata update for gas optimization
+* [x] Increased API usage for third-party protocols
+* [x] Surpassed 1.5 million swaps
 
 #### Upcoming
 
@@ -53,5 +64,6 @@ coverY: 0
 * [ ] Search for cohesive liquidity between routes
 * [ ] ML/AI improvements
 * [ ] Gasless trading
-* [ ] Piteas V2 launch&#x20;
+* [ ] Piteas V2 launch
+* [ ] Limit order integration via Pday
 
