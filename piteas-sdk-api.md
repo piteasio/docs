@@ -28,6 +28,20 @@ The SDK version is in the beta stage, so please avoid sending more than **10 req
 [contracts.md](contracts.md)
 {% endcontent-ref %}
 
+***
+
+### The first release of the Piteas API/SDK Monorepo is live! 🚀
+
+Developers can now easily explore and integrate the Piteas API to create innovative products—freely and effortlessly!
+
+The **Piteas API/SDK Monorepo** provides a comprehensive development environment to interact with the Piteas API. It offers two modes of operation: **Basic** and **Advanced**, designed to cater to developers of varying needs and expertise.
+
+#### Explore now: [https://github.com/piteasio/piteas-api-monorepo](https://github.com/piteasio/piteas-api-monorepo)
+
+{% embed url="https://github.com/piteasio/piteas-api-monorepo" %}
+
+***
+
 ### Request Example and API parameters
 
 > Example URL for 1,000,000 PLS to DAI :arrow\_down\_small:\
