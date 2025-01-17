@@ -31,6 +31,12 @@
 * [🤝 Business Enquiries](support/business-enquiries.md)
 * [🐛 Bug Bounty](support/bug-bounty.md)
 
+***
+
+* [Policies](policies/README.md)
+  * [Terms of Service](policies/terms-of-service.md)
+  * [Privacy Policy](policies/privacy-policy.md)
+
 ## Reference
 
 * [Website](https://piteas.io)
