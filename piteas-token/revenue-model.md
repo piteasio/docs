@@ -2,8 +2,6 @@
 
 ### How does Piteas generate revenue?
 
-<figure><img src="../.gitbook/assets/howitworks---New (1).jpg" alt=""><figcaption><p>Piteas - Revenue Flow</p></figcaption></figure>
-
 As you know, Piteas aggregates liquidity from multiple DEXs, enabling you to swap at the best rate. Following the protocol's launch, it did not charge any swap fees for a little over a month, and subsequently introduced the new fee model. The protocol assesses how much better our best offer is compared to the next best offer, ensuring we maintain our commitment to delivering the best price on the network, and charges a portion of the savings as protocol revenue. Our priority is the widespread adoption and usage of the protocol.
 
 The main objective of this revenue model is to protect the protocol's economy and the user's earnings. The first rule remains unchanged: if the best offer is not presented to the user, no fee is charged. And if a saving is provided to the user, the protocol can also take a share. This share is variable but averages a maximum of 2% and usually doesn’t charge a fee on major swap routes with smaller amounts. Since it operates on a dynamic fee model, we can't provide exact figures, but based on swap statistics from early 2025, the average fee amount can be estimated at \~0.25%.
