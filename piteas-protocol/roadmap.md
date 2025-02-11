@@ -57,7 +57,11 @@ coverY: 0
 * [x] Calldata update for gas optimization
 * [x] Increased API usage for third-party protocols
 * [x] Surpassed 1.5 million swaps
+
+#### 2025 | H1
+
 * [x] Piteas API/SDK monorepo release - _beta_&#x20;
+* [x] Surpassed 2 million swaps
 
 #### Upcoming
 
