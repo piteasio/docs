@@ -51,17 +51,19 @@ coverY: 0
 #### 2024 | H2
 
 * [x] Enhanced deep search capabilities in Pathfinder
+* [x] Surpassed 1.5 million swaps
 * [x] Fee model improvements
 * [x] New liquidity sources
 * [x] UI updates
 * [x] Calldata update for gas optimization
 * [x] Increased API usage for third-party protocols
-* [x] Surpassed 1.5 million swaps
 
 #### 2025 | H1
 
 * [x] Piteas API/SDK monorepo release - _beta_&#x20;
 * [x] Surpassed 2 million swaps
+* [x] Pathfinder capability enhancements
+* [x] Call improvements for execution
 
 #### Upcoming
 

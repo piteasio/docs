@@ -5,7 +5,7 @@ coverY: 0
 
 # 🔆 Overview
 
-<figure><img src=".gitbook/assets/p1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/tw-cover4.jpg" alt=""><figcaption></figcaption></figure>
 
 First Optimal & Productive Dex Aggregator on Pulsechain.
 
