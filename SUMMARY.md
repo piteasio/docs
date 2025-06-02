@@ -11,7 +11,7 @@
 ***
 
 * [🛣️ Roadmap](piteas-protocol/roadmap.md)
-* [💸 Revenue Model](piteas-token/revenue-model.md)
+* [💸 Revenue Model & Fees](revenue-model-and-fees.md)
 * [📄 Contracts](contracts.md)
 * [🛡️ Audit](audit.md)
 * [🖼️ Widget API](widget-api.md)
@@ -24,6 +24,7 @@
 * [🐇 Token Utility](piteas-token/token-utility.md)
 * [🌕 Sacrifice Details](piteas-token/sacrifice-details.md)
 * [CoinGecko](https://www.coingecko.com/en/coins/piteas)
+* [CoinMarketCap](https://coinmarketcap.com/currencies/piteas/)
 
 ## Support
 

@@ -64,6 +64,14 @@ coverY: 0
 * [x] Surpassed 2 million swaps
 * [x] Pathfinder capability enhancements
 * [x] Call improvements for execution
+* [x] Dapp deployment modeling
+* [x] Integration of onramp protocols
+
+#### 2025 | H2
+
+* [x] Pathfinder Core V2 upgrade
+* [x] UI enhancements
+* [x] Public API improvements
 
 #### Upcoming
 
@@ -71,6 +79,6 @@ coverY: 0
 * [ ] Search for cohesive liquidity between routes
 * [ ] ML/AI improvements
 * [ ] Gasless trading
-* [ ] Piteas V2 launch
+* [ ] Piteas V2 final launch
 * [ ] Limit order integration via Pday
 

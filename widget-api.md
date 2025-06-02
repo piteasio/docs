@@ -1,4 +1,4 @@
-# 🖼 Widget API
+# 🖼️ Widget API
 
 Piteas Widget API is a versatile tool that can be seamlessly integrated into your portal by configuring it to meet your specific needs. It designed to be open for everyone to use and integrate. You can easily integrate it into your portal by making the necessary configurations.
 
@@ -7,6 +7,18 @@ The interface allows users to buy and sell for ERC20 tokens. An iframe integrati
 ### iframe vs. custom UI
 
 One benefit of an iframe integration is that the your site will automatically keep up with any improvements/additions to the site. After the initital integration is setup no further work is needed to pull in updates as the exchange site is updated over time.
+
+***
+
+### <mark style="color:green;">Piteas Widget Generator is live!</mark>&#x20;
+
+Feel free to use the repo/version here to configure the widget however you like and embed it into your website. Released repo url is here: [https://widget-generator-piteas.netlify.app](https://widget-generator-piteas.netlify.app) :tada:
+
+{% embed url="https://github.com/piteasio/widget-generator" %}
+Piteas Widget Generator
+{% endembed %}
+
+***
 
 ### Example
 

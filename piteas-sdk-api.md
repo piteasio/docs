@@ -4,7 +4,7 @@
 
 Piteas has an offchain model for its dex aggregator. Unlike traditional aggregator models, it doesn't create routes through API calls; the entire process is managed offchain by pathfinder, which then provides the call data response to the UI.
 
-At this stage, Piteas API is not publicly accessible\*. [_<mark style="color:blue;">(Modified)</mark>_](piteas-sdk-api.md#request-example-and-api-parameters) It is open for access to Piteas' main app, widget app, and some partner protocols. We don't have our own RPC service; quote/request data is fetched entirely through native Pulsechain RPC using our algorithms. Therefore, the number of quote requests needs to be limited. So, if you're looking to run an arbitrage bot, Piteas API is not suitable for you at this stage. However, if you have a project or product and require API access, please provide us with the following information for consideration:
+It is open for access to Piteas' main app, widget app, and some partner protocols. We don't have our own RPC service; quote/request data is fetched entirely through native Pulsechain RPC using our algorithms. Therefore, the number of quote requests needs to be limited. So, if you're looking to run an arbitrage bot, Piteas API is not suitable for you at this stage. However, if you have a project or product and require API access, please provide us with the following information for consideration:
 
 * Brief information about your product.
 * Estimated number of API requests covering daily, hourly, and minute intervals.
@@ -22,11 +22,9 @@ Piteas SDK beta release has been published. Please note that this version may co
 To execute the swap process, sending the **calldata** on **methodParameters** from the response data to the [**PiteasRouter** ](contracts.md)is sufficient. Adjust the necessary value data and gas estimate settings according to your conditions. Please also take a look at the router contract because the arguments in the response are defined for the conditions in the contract.
 {% endhint %}
 
-The SDK version is in the beta stage, so please avoid sending more than **10 requests per minute**. Exceeding this limit may result in your blockage and cause access issues for one hour. Limits will be adjusted after the beta version.
+#### API Limits
 
-{% content-ref url="contracts.md" %}
-[contracts.md](contracts.md)
-{% endcontent-ref %}
+The SDK version is in the beta stage, so please avoid sending more than **10 requests per minute**. Exceeding this limit may result in your blockage and cause access issues for one hour. Limits will be adjusted after the beta version.
 
 ***
 
