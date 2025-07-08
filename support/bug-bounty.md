@@ -7,6 +7,12 @@ coverY: 0
 
 ### Bounty Program <a href="#reporting" id="reporting"></a>
 
+{% hint style="warning" %}
+**Important Notice!**
+
+Please note that we do _not_ accept vulnerability claims based on common Web2 pentest findings such as XSS or DMARC issues. The bug bounty program is strictly focused on the Web3 side of the protocol. We frequently receive submissions based on generic "online pentest" scans — these will unfortunately be rejected.
+{% endhint %}
+
 We encourage the community to audit our open source code; we also encourage the responsible disclosure of any issues. The bug bounty program is intended to recognize the value of working with the community of independent security researchers and sets out our definition of good faith in the context of finding and reporting vulnerabilities, as well as what you can expect from us in return.
 
 Piteas offers substantial rewards for discoveries that can prevent the loss of assets, the freezing of assets, or harm to users.

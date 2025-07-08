@@ -10,8 +10,8 @@
 
 ***
 
-* [🛣️ Roadmap](piteas-protocol/roadmap.md)
 * [💸 Revenue Model & Fees](revenue-model-and-fees.md)
+* [🛣️ Roadmap](piteas-protocol/roadmap.md)
 * [📄 Contracts](contracts.md)
 * [🛡️ Audit](audit.md)
 * [🖼️ Widget API](widget-api.md)
