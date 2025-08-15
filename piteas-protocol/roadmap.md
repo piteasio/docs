@@ -70,12 +70,13 @@ coverY: 0
 #### 2025 | H2
 
 * [x] Pathfinder Core V2 upgrade
-* [x] UI enhancements
 * [x] Public API improvements
+* [x] New liquidity sources
+* [x] UI enhancements
 
 #### Upcoming
 
-* [ ] Single side staking for PTS
+* [ ] PTS Burning Model \[or] PTS Staking
 * [ ] Search for cohesive liquidity between routes
 * [ ] ML/AI improvements
 * [ ] Gasless trading
