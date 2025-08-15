@@ -14,9 +14,8 @@ Piteas is a dex aggregator on Pulsechain, with integrated AMM protocols.
 * <img src="../.gitbook/assets/9inch.png" alt="" data-size="line"> 9inch - V2 and V3
 * <img src="../.gitbook/assets/9mm.png" alt="" data-size="line"> 9mm - V2 and V3
 * <img src="https://piteas.io/img/integrations/pdex.png" alt="" data-size="line"> pDex - StableSwap and V3
+* <img src="https://piteas.io/img/integrations/tide.png" alt="" data-size="line"> Tide - ComposableStable and Weighted
 * <img src="https://piteas.io/img/integrations/dextop.png" alt="" data-size="line"> Dextop - V2 and V3
-* <img src="https://piteas.io/img/integrations/sparkswap.png" alt="" data-size="line"> ~~SparkSwap- V2 Pools _(paused)_~~
-* <img src="../.gitbook/assets/eazyswap.png" alt="" data-size="line"> ~~Eazy Swap - AMM Pools _(paused)_~~
 
 
 
