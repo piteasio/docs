@@ -5,9 +5,7 @@ coverY: 0
 
 # 🧩 Protocols
 
-Piteas is a dex aggregator on Pulsechain, with integrated AMM protocols.
-
-#### The active protocols are:
+#### Active protocols:
 
 * <img src="../.gitbook/assets/pulsex.png" alt="" data-size="line"> PulseX - V1, V2 and StableSwap
 * <img src="../.gitbook/assets/phux.png" alt="" data-size="line"> Phux.io - ComposableStable and Weighted
