@@ -11,7 +11,7 @@ The PTS Token, which will serve as the governance and utility token for Piteas, 
 
 ### Token Details:
 
-<table data-header-hidden data-full-width="true"><thead><tr><th width="189"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td>Name</td><td>Piteas Token</td><td></td></tr><tr><td>Symbol</td><td>PTS</td><td></td></tr><tr><td>Decimal</td><td>18</td><td></td></tr><tr><td>Supply</td><td>100,000,000</td><td></td></tr><tr><td>Chain</td><td>Pulsechain (ChainId: 369)</td><td></td></tr><tr><td>Contract Address</td><td>0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433</td><td></td></tr><tr><td>Explorer</td><td><a href="https://scan.pulsechain.com/address/0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433">https://scan.pulsechain.com/address/0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433</a></td><td></td></tr></tbody></table>
+<table data-header-hidden data-full-width="true"><thead><tr><th width="189"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td>Name</td><td>Piteas Token</td><td></td></tr><tr><td>Symbol</td><td>PTS</td><td></td></tr><tr><td>Decimal</td><td>18</td><td></td></tr><tr><td>Max / Total Supply</td><td>100,000,000</td><td></td></tr><tr><td>Circulation Supply</td><td>70,000,000  <a data-footnote-ref href="#user-content-fn-1"><em>supply api</em></a></td><td></td></tr><tr><td>Chain</td><td>Pulsechain (ChainId: 369)</td><td></td></tr><tr><td>Contract Address</td><td>0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433</td><td></td></tr><tr><td>Explorer-1</td><td><a href="https://scan.pulsechain.com/address/0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433">https://scan.pulsechain.com/address/0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433</a></td><td></td></tr><tr><td>Explorer-2</td><td><a href="https://midgard.wtf/address/0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433">https://midgard.wtf/address/0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433</a></td><td></td></tr><tr><td>Explorer-3</td><td><a href="https://otter-pulsechain.g4mm4.io/address/0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433/contract">https://otter-pulsechain.g4mm4.io/address/0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433/contract</a></td><td></td></tr></tbody></table>
 
 {% hint style="success" %}
 Please be cautious of fake token addresses and contracts. We strongly recommend ensuring you are using the official token contract only!
@@ -19,8 +19,10 @@ Please be cautious of fake token addresses and contracts. We strongly recommend 
 
 ***
 
-#### Piteas Token ($PTS) on Coingecko
-
-You can find statistics and details about Piteas Token ($PTS), one of the most important protocols in the crypto ecosystem, on Coingecko.
+#### More Details: PTS Token
 
 {% embed url="https://www.coingecko.com/en/coins/piteas" %}
+
+{% embed url="https://coinmarketcap.com/currencies/piteas" %}
+
+[^1]: _(Circulation Supply API:_ [_https://piteas.io/supply-api/circulation_](https://piteas.io/supply-api/circulation)_)_
