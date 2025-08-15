@@ -7,7 +7,13 @@ coverY: 0
 
 #### Branding Pack - Piteas
 
-<figure><img src="../.gitbook/assets/piteas-icon.png" alt="" width="128"><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/piteas-icon-wide.png" alt="" width="375"><figcaption><p>Icon - Original</p></figcaption></figure> <figure><img src="../.gitbook/assets/piteas-icon-square.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+
+
+<div><figure><picture><source srcset="../.gitbook/assets/piteas-logo-wide-w.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/piteas-logo-wide.png" alt=""></picture><figcaption><p>Logo - Original</p></figcaption></figure> <figure><picture><source srcset="../.gitbook/assets/piteas-logo-wide.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/piteas-logo-wide-w.png" alt=""></picture><figcaption><p>Logo - TextWhite "darkmode"</p></figcaption></figure></div>
+
+
 
 {% file src="../.gitbook/assets/piteas-logo-set.zip" %}
 Piteas - Logo Pack
@@ -15,16 +21,14 @@ Piteas - Logo Pack
 
 #### Assets - Piteas
 
+<figure><img src="../.gitbook/assets/piteas-og.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/dexscreener-cover.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/og-landing-min.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/tw-cover3.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/tw-cover.jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/1280-640-landing.jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/args1.jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/og-image.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/gb-cover (4).jpg" alt=""><figcaption></figcaption></figure>
