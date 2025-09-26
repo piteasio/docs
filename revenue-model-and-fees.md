@@ -12,7 +12,7 @@ The second revenue model is positive slippage. This represents the profit genera
 
 ### **Use of Revenue**
 
-Tokens bought back are transferred to the **PTS Treasury Wallet** and will be used for staking or other incentive mechanisms. For now, all buyback operations are fully managed by the team. However, in the future, the plan is to have these executed by AI agents in a non-periodic and unpredictable manner.
+Tokens bought back are transferred to the **PTS Treasury Wallet** and will be used for burning model or other incentive mechanisms. For now, all buyback operations are fully managed by the team. However, in the future, the plan is to have these executed by AI agents in a non-periodic and unpredictable manner.
 
 {% hint style="success" %}
 At least 50% of protocol revenue is used/will be used as token utility.

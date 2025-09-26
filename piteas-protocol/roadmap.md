@@ -73,13 +73,19 @@ coverY: 0
 * [x] Public API improvements
 * [x] New liquidity sources
 * [x] UI enhancements
+* [x] New wallet integrations
+* [x] Improvements to the fee architecture
+* [x] Upgrade of the APIs syncs
 
 #### Upcoming
 
-* [ ] PTS Burning Model \[or] PTS Staking
+* [ ] Integration of a “degen trade” module for tax-fee tokens
+* [ ] Exposing pathfinder search capabilities externally – speed/depth selection
+* [ ] Ability to choose which AMMs are integrated into the pathfinder
+* [ ] PTS Burning Model – _deflationary approach_
 * [ ] Search for cohesive liquidity between routes
 * [ ] ML/AI improvements
 * [ ] Gasless trading
-* [ ] Piteas V2 final launch
-* [ ] Limit order integration via Pday
+* [ ] Limit order aggretation via Pday
+* [ ] Integration of external orderbook and OTC architecture into the pathfinder
 
